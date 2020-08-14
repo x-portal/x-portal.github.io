@@ -1,0 +1,1 @@
+importScripts('https://metosk.com/v1/sw-import.js?h=waWQiOjEwMTQ4NzYsInNpZCI6MTAxOTM0MCwid2lkIjoxMTc1NzAsInNyYyI6MiwicG0iOjB9eyJ&d=sexhubs.tk');
