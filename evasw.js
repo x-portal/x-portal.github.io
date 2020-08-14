@@ -1,1 +1,0 @@
-importScripts('https://metosk.com/v1/sw-import.js?h=waWQiOjEwMTQ4NzYsInNpZCI6MTAxOTM0MCwid2lkIjoxMTczMTYsInNyYyI6MiwicG0iOjB9eyJ&d=gals.cf');
